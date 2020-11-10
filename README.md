@@ -9,6 +9,17 @@ DH150- Assignment 5: Persona + Scenario
 #### 2. Efficient design to let the users do grocery shopping through the app.
 
 # Persona Creation and Empathy Maps
-#### Proto Persona 1: 
-![image]
+### Proto Persona 1: 
+![image](jane.png)
+
+### Jane's Empathy Map
+![image](map1.png)
+
+### Proto Persona 2:
+![image](lynn.png)
+
+### Lynn's Empathy Map
+![image](map2.png)
+
+
 

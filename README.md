@@ -32,5 +32,5 @@ DH150- Assignment 5: Persona + Scenario
 ### 2. Lynn's Scenario
 #### After work, Lynn is very tired due to her hectic schedule and workload. She shortly think about what she should cook for dinner, but decides to head home first to see what ingredients she has first. As see arrives, she cannot think of any food with the ingredients that she has in her refrigerator. She starts her searrch from the recipe app. Since she's very tired, she does not want to spend too much time cooking and want to look for a recipe that is easy and healthy. 
 #### She searches through the recipe app; However, it does not provide her much of an option because most of the recipes are only supported from the "paid version". From struggling, she hardly picks a recipe that she is willing to make. She runs to the refrigerator to check if she has all the ingredients. She is missing one ingredient from the list. She does not have the energy to drive all the way to the grocery store. It causes her frustration and she decides to give up. She takes out her phone again and order the delivery food. 
-![imgae](pink3.png)
+![image](pink3.png)
 
